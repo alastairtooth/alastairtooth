@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alastair Tooth</h1>
 <h3 align="center">A passionate full stack developer from Melbourne Australia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alastairtooth" alt="alastairtooth" /></a> </p>
-
 - 🔭 I’m currently working on **Health-PlannerPlus**
 
 - 🌱 I’m currently learning **React**
