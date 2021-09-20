@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I do stand up comedy in my spare time**
 <br>
-### Blogs posts
+# Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <br>
