@@ -48,5 +48,8 @@
 <br>
 # Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to keep your customer in your design – Interviews](https://wolfwaredigital.com/2021/02/09/how-to-keep-your-customer-in-your-design-interviews/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-keep-your-customer-in-your-design-interviews)
+- [Project Fundamentals: Defining Scope](https://wolfwaredigital.com/2021/01/14/project-fundamentals-defining-scope/?utm_source=rss&utm_medium=rss&utm_campaign=project-fundamentals-defining-scope)
+- [Product Owner’s & Start Up Development](https://wolfwaredigital.com/2020/12/17/business-development-as-a-product-owner/?utm_source=rss&utm_medium=rss&utm_campaign=business-development-as-a-product-owner)
 <!-- BLOG-POST-LIST:END -->
 <br>
