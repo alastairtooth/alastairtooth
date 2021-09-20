@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Health-PlannerPlus**
 
-- 🌱 I’m currently learning **React**
-
 - 📝 I regularly write articles on [https://wolfwaredigital.com/blog/](https://wolfwaredigital.com/blog/)
 
 - 💬 Ask me about **Product Development, Swift, Ruby, and Javascript**
@@ -12,8 +10,6 @@
 - 📫 How to reach me **alastairtooth@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alastairtooth/](https://www.linkedin.com/in/alastairtooth/)
-
-- ⚡ Fun fact **I do stand up comedy in my spare time**
 
 
 <h3 align="left">Connect with me:</h3>
