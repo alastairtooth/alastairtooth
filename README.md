@@ -46,5 +46,5 @@
 <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alastairtooth&show_icons=true&locale=en&layout=compact" alt="alastairtooth" /></p>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alastairtooth&" alt="alastairtooth" /></p>
