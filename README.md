@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alastair Tooth</h1>
-<h3 align="center">A passionate full stack developer from Melbourne Australia</h3>
+<h3 align="center">A full stack developer from Melbourne Australia specialising in web and mobile application development</h3>
 
 - 🔭 I’m currently working on **Health-PlannerPlus**
 
